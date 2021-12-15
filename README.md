@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kevmorlo
+- 👀 I’m interested in programming & video games
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : kevin.lebeau-pro@outlook.fr or Discord : kevmorlo (-_-)#7331
