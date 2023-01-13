@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Kevin
 - 👀 I’m interested in programming & video games
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on.
+- 🌱 I’m currently studying programming
 - 📫 How to reach me : kevin.lebeau-pro@outlook.fr or Discord : kevmorlo (-_-)#7331
