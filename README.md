@@ -3,3 +3,4 @@
 - 🌱 I’m currently studying programming
 - 📫 How to reach me : kevin.lebeau-pro@outlook.fr or Discord : kevmorlo (-_-)#7331
 - 🤝 I'm contributing here : https://github.com/Lucas-Chevalier/Shifumi
+- 🖐 Don't hesitate to look at my projects
