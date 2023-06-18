@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin
 - 👀 I’m interested in programming & video games
-- 🌱 I’m currently studying programming
+- 🌱 I’m currently studying computer engineering
 - 📫 How to reach me : kevin.lebeau-pro@outlook.fr or any of my social networks
 - 🖐 Don't hesitate to look at my projects
